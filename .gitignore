@@ -1,2 +1,7 @@
 .vscode/
 .metals/
+.scala-build/
+.bsp/
+Work/.bsp/
+Work/.project/
+Work/target/

@@ -26,3 +26,6 @@ libraryDependencies += "org.scala-lang" % "scala-library" % scalaVersion.value
 
 // 添加Pig依赖
 libraryDependencies += "org.apache.pig" % "pig" % "0.17.0"
+
+// 添加 Logback 依赖
+libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.6"
