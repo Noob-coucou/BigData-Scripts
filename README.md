@@ -3,7 +3,7 @@
 ###### 配置文件:
 
 ### 测试环境
-* Vmware Workstation 15.5 PRO
+* VmwareWorkstation 15.5 PRO
 * Ubuntu 22.04.1
 * Kafka 3.5.0
 * Zookeeper 3.7.1
