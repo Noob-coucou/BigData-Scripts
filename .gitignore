@@ -3,5 +3,5 @@
 .scala-build/
 .bsp/
 Work/.bsp/
-Work/.project/
+Work/project/
 Work/target/
